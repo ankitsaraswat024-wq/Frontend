@@ -185,3 +185,4 @@ docs.txt
 .vscode/*
 .vscode/*/**
 .vscode
+node_modules
